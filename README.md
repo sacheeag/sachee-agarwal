@@ -1,5 +1,5 @@
 # sachee-agarwal
-# Phase 1 - Data Analytics Project
+# Phase 1 - EDA Project
 
 **Name:** Sachee Agarwal  
 **Registration Number:** 23BDS0087
