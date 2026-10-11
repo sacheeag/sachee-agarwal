@@ -66,3 +66,12 @@ Phase 2 focuses on **Exploratory Data Analysis (EDA)** and **clustering** of the
 
 ## Conclusion
 Phase 2 combines **1D, 2D, and N-dimensional EDA** with **K-Means and Hierarchical Clustering** to identify distributions, relationships, correlations, and natural groupings within the dataset.
+
+
+
+# Phase 3
+
+## PCA (Principal Component Analysis)
+
+Performed PCA on the Benefits dataset to reduce dimensionality while preserving maximum variance. The dataset was preprocessed by handling missing values, encoding categorical variables, and standardizing features. Explained variance and cumulative variance were analyzed, and a scatter plot of the first two principal components was generated to visualize the data in a lower-dimensional space.
+
